@@ -1,0 +1,425 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The saints iewell, shevving hovv to apply the promise In a sermon preached by Thomas Shepheard.</title>
+            <author>Shepard, Thomas, 1605-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93079</idno>
+            <idno type="STC">Wing S3115A</idno>
+            <idno type="STC">ESTC R232293</idno>
+            <idno type="EEBO-CITATION">99897683</idno>
+            <idno type="PROQUEST">99897683</idno>
+            <idno type="VID">131893</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93079)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 131893)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2520:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The saints iewell, shevving hovv to apply the promise In a sermon preached by Thomas Shepheard.</title>
+                  <author>Shepard, Thomas, 1605-1649.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Rotterdam? :</pubPlace>
+                  <date>Printed in the yeere, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conversion --  Early works to 1800.</term>
+               <term>God --  Mercy --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:131893:1"/>
+            <pb facs="tcp:131893:1" rendition="simple:additions"/>
+            <p>THE SAINTS IEWELL, shevving hovv to apply the promiſe.</p>
+            <p>In A Sermon preached by THOMAS SHEPHEARD.</p>
+            <p>
+               <hi>For the promiſe is unto you, and to your children, and to all that are afar off, even to as many as the Lord our God shall call, Act.</hi> 2. 29.</p>
+            <figure/>
+            <p>Printed in the yeere. 1642.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb n="2" facs="tcp:131893:2"/>
+            <head>To the Reader.</head>
+            <p>REader, the body may as well ſubſist with<g ref="char:EOLhyphen"/>out the ſoule, as the ſoule can without a promiſe, and as the body is not wearied with bread (being the ſtaffe of life) though it hath it every day for nourishment, ſo likewiſe the fainting hungry ſoule can never be cloyed with feeding upon the promiſes: for which cauſe <hi>I</hi> have alſo adventured this little Sermon, not doubting, but it may reape it's due fruit, from thoſe whoſe hearts are rightly affected, which God granting. <hi>I</hi> shall account my labour abun<g ref="char:EOLhyphen"/>dantly requited. Farewell.</p>
+            <closer>
+               <signed>T. S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="3" facs="tcp:131893:2"/>
+            <head>THE SAINTS IEWELL, shevving hovv to apply the promiſe.</head>
+            <p>Having theſe promiſes, dearely beloved, let us cleanſe our ſelves from all filthines of the flesh and ſpirit, perfecting ho<g ref="char:EOLhyphen"/>lines in the feare of God. 2 Cor 7, 1.</p>
+            <p>
+               <seg rend="decorInit">T</seg>He Apoſtle Paul in the former chapter exhor<g ref="char:EOLhyphen"/>teth the Corinthians to beware of unequall yo<g ref="char:EOLhyphen"/>king themſelves with unbeleevers, and hee gives a double argu<g ref="char:EOLhyphen"/>ment for it, one from the unequalnes of it, the other from the pro<g ref="char:EOLhyphen"/>miſes,
+<pb n="4" facs="tcp:131893:3"/> as in my text, <hi>Having theſe promiſes.</hi>
+            </p>
+            <p>In theſe words are three parts.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt a loving appellation in theſe words, <hi>Having theſe promiſes, dearely beloved.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> A gracious exhortation, <hi>let us cleanſe our ſelves from all filthineſſe of flesh and ſpirit, perfecting holineſſe in the feare of God.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> An argument for inſtigation, or motive that hee uſeth to preſſe his exhortation, which is from the nature of the promiſe.</p>
+            <p>That which is in the laſt part of the di<g ref="char:EOLhyphen"/>viſion, is firſt in order of the words, and therefore we will looke upon the words, as they ly in order: and ſo from the laſt part and firſt words I shall handle this doctrine.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> That God made many promiſes unto his people.</p>
+            <p>I am come to you this day not to ſet out unto you the excellency of wit or learning, or the creature: but the excellency of a naked promiſe, according to that. 2 Pet 1, 4. <hi>Whereby are given unto us exceeding great and and pre<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ious promiſes.</hi>
+            </p>
+            <p>Now all the promiſes of God unto his people, are ſuch as concerne the body, or the body and the ſoule: thoſe that concerne the body are with this limitation, that is, ſo farre as concernes Gods glory, and the
+<pb n="5" facs="tcp:131893:3"/> good of our ſoules: but for the body and ſoule, conſider that place. <hi>For the Lord is a ſunne and Shield, the Lord will give grace and</hi> 
+               <note place="margin">Pſal. 84. 11.</note> 
+               <hi>glory, and no good will he withhold from them that live uprightly.</hi>
+            </p>
+            <p>I Come to the reaſons why God hath thus made many promiſes unto his people, and they are three.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> The firſt reaſon is this, that his people might have a fit object for their faith to lay hold upon, for if you looke upon all the creatures in the world, you shall finde in all of them jointly, or any of them apart, a fit object for faith to worke upon, or be ſatisfied in: it is with faith as with a poore woman that hath a child, and hath nothing in the world to give it, shee takes the child at her back and goeth from doore to doore, and what shee getteth shee giveth to the child, ſo faith takes the ſoule, and carrieth it to promiſe after promiſe, and what ever she findes there she gives it to the ſoule.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The ſecond reaſon, why God hath made many promiſes unto his people is, that they may have a ground of comfort: for as it is the object of their faith, ſo it is the ground of their comfort: for all other things of this world cannot profite or comfort the
+<pb n="6" facs="tcp:131893:4"/> beleeving ſoule; as ſuppoſe we should go to friends for comfort, it may be they want comfort for themſelves, and ſo are unfit to comfort us, or it may be they will not comfort us, or it may be they are a great way off, and ſo cannot doe it: or per<g ref="char:EOLhyphen"/>haps though able and ſometimes willing, yet they are mutable in their comforts, ſo as though at one time they are willing and doe comfort us, yet another time they faile us: but Chriſt, to whom the ſoule is led by the promiſe, not onely hath com<g ref="char:EOLhyphen"/>fort and is able to comfort us, but he is willing alſo to give comfort to us, who knoweth our wants, <hi>and is neere to all that</hi> 
+               <note place="margin">Pſal. 145. 18.</note> 
+               <hi>call upon him in trueth,</hi> and alſo he is immu<g ref="char:EOLhyphen"/>table in his comforts. And were the crea<g ref="char:EOLhyphen"/>ture a ſufficient ground of comfort to Gods people, then to want the creature were a ſufficient ground of miſery to them: but a man may want health, wealth, liberty, and the like, and yet through and in Chriſt, his ſoule may have ſatisfying comfort: but if he want Chriſt, though he hath a fulneſſe of the creature, hee is moſt miſerable and without all ſatisfying comfort; the pro<g ref="char:EOLhyphen"/>miſe onely is able to afford comfort to the ſoule in health, in ſicknes, in life, and in death.</p>
+            <pb n="7" facs="tcp:131893:4"/>
+            <p> The third reaſon, why God hath made many promiſes unto his people is, that they may become mutuall comforters one of another, by having ſomewhat by experience from a promiſe, wherewith they may be enabled to comfort others, ſo that you may ſee the promiſe is not given, to comfort our ſelves with onely, but alſo one another.</p>
+            <p>Now for uſe. Is it ſo that God hath <note place="margin">1 Vſe.</note> made many promiſes unto his people, let us try our ſelves, whether we have any right to the promiſes, or no, I will name but one note that you may the better re<g ref="char:EOLhyphen"/>member it, and it is a true one, for you shall find it in Scripture. <hi>But the Scripture hath concluded all under ſinne, that the promiſe by faith in Ieſus Chriſt might be given to</hi> 
+               <note place="margin">Gal. 3. 22.</note> 
+               <hi>them that beleeve.</hi> So that you may ſee it is to them, and to them onely that beleeve: he that can exerciſe faith in the promiſe, hath right to the promiſe, <hi>For ye walke by faith, and not by ſight.</hi> 
+               <note place="margin">2 Cor. 5. 7.</note>
+            </p>
+            <p>If Chriſtians be in afflictions and ſee that it doeth them good, then it is eaſie to be<g ref="char:EOLhyphen"/>leeve that promiſe which God hath made, <hi>All things shall worke together for the good of them that love God.</hi> But to beleeve this <note place="margin">Rom. 8. 28.</note> promiſe, when wee cannot ſee any good
+<pb n="8" facs="tcp:131893:5"/> come of affliction, that is to beleeve by faith and not by ſight: but when we can ſee no good come by affliction, but finde our ſelves more dead and dull, and alſo God to frowne upon us, and yet wee truſt in God, and beleeve the promiſe, and ſtay our ſoules upon Gods word; this is to live by faith, as we are commanded, <hi>Who is a<g ref="char:EOLhyphen"/>mong you that feareth the Lord, that obeyeth</hi> 
+               <note place="margin">Iſai. 50. 10.</note> 
+               <hi>the voyce of his ſervant, that walketh in darke<g ref="char:EOLhyphen"/>nes and hath no light, let him trust in the name of the Lord, and ſtay upon his God.</hi> Faith maketh things abſent to be preſent, and maketh the promiſe good to us, though things ſeeme to thwart the promiſe never ſo much. <hi>Now faith is the ſubſtance of things hoped for, and the evidence of things not ſeene,</hi> 
+               <note place="margin">Heb. 11. 1.</note> with the eye of ſence. As Abraham be<g ref="char:EOLhyphen"/>leeved <note place="margin">Rom 4. 18.</note> againſt hope, that he should haue a child, according as God had promiſed: ſo muſt we truſt God upon a naked promiſe, that if health should be gone, or wealth, liberty, ſtrength friends, yea life it ſelfe almoſt gone, and God ſeemes to be gone, and hell to be threatned, yet ſtill to truſt in God, and beleeve, this is to live by faith, and comfort is in the promiſe for all ſuch, but I ſpeake now to Gods people.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>2</label> The ſecond uſe of this doctrine is, That
+<pb n="9" facs="tcp:131893:5"/> ſeeing God hath made many promiſes unto his people, it is a ground of comfort unto them all, that though they goe up and downe ſad, as if they were the worſt peo<g ref="char:EOLhyphen"/>ple in the world, yet have they the onely cauſe to reioyce, and they onely in all the world<g ref="char:punc">▪</g> for heere is comfort againſt all their ſins, God hath promiſed to doe them away. I <hi>am he that blotteth out thy ſinnes, for</hi> 
+               <note place="margin">Iſai. 43. 25.</note> 
+               <hi>mine owne names ſake,</hi> comfort thy ſelfe, Chriſt is thine. <hi>I am my beloveds, and my be<g ref="char:EOLhyphen"/>loved is mine,</hi> if therefore there be enough in Chriſts merits hold up thy head and take comfort to thy ſelfe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Oh but ſaith the poore ſoule, I finde ſin prevaile, and how can I then be comforted?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwere, looke into that place of Scrip<g ref="char:EOLhyphen"/>ture. <hi>I will ſubdue your iniquities, and cast your ſinnes into the midſt of the ſea,</hi> and in the <note place="margin">Mic, 7. 18. 19. 20.</note> 20 verſe you may ſee the oath of God, for the trueth and mercy of the promiſe was gone foorth before.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But ſaith the ſoule, the Devill will be buſie with mee where ever I goe, and how can I be chearefull?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwere, God hath ſaid it, I <hi>will tread downe Sathan under your feet shortly.</hi> Com<g ref="char:EOLhyphen"/>fort <note place="margin">Rom. 16. 20.</note> thy ſelfe in this though Sathan may trouble thee for a time, yet thou shalt
+<pb n="10" facs="tcp:131893:6"/> have him under thy feet shortly.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Oh but againe ſaith the ſoule, I shall meet with abundance of oppoſition in the world, and I am not able to make my party good, and how can I then reioyce?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwere, flee thou to the promiſe a<g ref="char:EOLhyphen"/>gainſt that alſo, as where it is ſaid, <hi>Though hand joyne in hand,</hi> &amp;c. Though men joyne <note place="margin">Pro. 11. 21.</note> themſelves together, and ſtrike hands, even with the devill againſt Gods children, yet shall they not overcome them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But alas ſaith a poore ſoule, I am in pre<g ref="char:EOLhyphen"/>ſent want of outward comfort, and how should I be comfortable in ſuch a condition.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwere, It may be God dealeth with thee in this, as a mother with her children, who takes away the victuals from the children for a while, and puts it into the cubbord, but afterward she giveth it them againe. So ſometimes God taketh away theſe outward things, and locketh them up for a while in the cubbord, which is in the promiſe, and when he ſeeth it beſt for us, he giveth it to us againe: and thus hee did with Iob, He tooke away all his out<g ref="char:EOLhyphen"/>ward <note place="margin">Iob. 1, 15. &amp;c</note> comforts, and left him ſo poore, as it is a proverb at this day (As poore as Iob:) but after a while, God did not onely re<g ref="char:EOLhyphen"/>ſtore unto him his former comforts, but
+<pb n="11" facs="tcp:131893:6"/> gave him double: And this was written for thy comfort, and the ſtrength of thy patience: comfort thy ſelfe therefore, hap<g ref="char:EOLhyphen"/>pines is above the creature.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiect, </seg>
+               </label> But I shall meet with many mocks and reproaches in the world.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Anſw. Let us comfort our ſelves againſt this with Gods promiſes: let us doe as the coveteous man in the Poet, who being mocked as he went in the ſtreets, went home and looked into his cloſſet, and there ſeeing his bags of gold, rejoyced in his wealth, and ſcorned all their reproaches, ſo when we are mocked and ſcorned of men of the world, let us looke into the Bible, and we shall finde bags of promiſes, true treaſure, and therein let us rejoyce.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiect. </seg>
+               </label> But it may be the poore ſoule will ſay, alas I cannot goe to God by prayer to fetch comfort, or if I doe pray, it is with ſo much coldnes and deadnes, as I cannot beleeve I shall obtaine any thing.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwere though it be ſo, yet beleeve and thou shalt have thy deſire, though it may be thou canſt but chatter, and though others hearing thee, regard it not, yet God will ſay let me heare thee, and as a father loves to heare his child prattle, though others regard it not, ſo God loveth to
+<pb n="12" facs="tcp:131893:7"/> heare his children pray.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiect. </seg>
+               </label> But oh, I am afraid of death, and that taketh away all my ioy and comfort.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſvv. </seg>
+               </label> I anſwere, thou mayeſt comfort thy ſelfe againſt that, yea and make death it ſelfe a ground of comfort and ioy to thy ſelfe. If a child be at bord from his fathers houſe, though he be at play with his fel<g ref="char:EOLhyphen"/>lowes, yet if he ſee horſe and man come to fetch him he is glad, and leaves his play and companions to goe home to his father willingly: ſo here wee are at bord in the world, and we are at play, as it were a<g ref="char:EOLhyphen"/>mong the creatures, but when death comes, which is as horſe &amp; man we should be willing to goe to our fathers houſe, which is beſt of all.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiect. </seg>
+               </label> But I am afraid if ſuffring times should come, I should never be able to ſtand out.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſvv. </seg>
+               </label> If God call thee to ſufferings, he will give thee grace ſutable to thy condition, <hi>he will not ſuffer us to be tempted above that we</hi> 
+               <note place="margin">1. Cor. 13. 10.</note> 
+               <hi>are able, but will with the temptation alſo make a way to eſcape, that we may be able to beare it.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiect. </seg>
+               </label> But alas, I am afraid I shall fall away from God, and that continuall feare there<g ref="char:EOLhyphen"/>of, doth take away all my comfort.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſvv. </seg>
+               </label> Anſwere, None can plucke thee out of Chriſts hands, neither ſin nor devill; shee
+<pb n="13" facs="tcp:131893:7"/> were a cruell mother that would caſt her child into the fire, Chriſt muſt doe ſo, if thou shouldeſt go to hell; yea more, if that should be ſo, hee should rend a member from himſelfe, for he is thy head, and thou art one of his members: therefore for thy comfort know this cannot be; the Lord ſaith, I <hi>will make an everlaſting covenant with them, that I wil not turne away from them to do them good.</hi> But you may ſay perhaps I shall turn from him, ſee therefore what followeth in the ſame verſe, I <hi>will put my feare in their hearts, and they shall not depart from me.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiect. </seg>
+               </label> This is good newes, it may bee the poore creature will ſay, if I had right to the promiſe, but alas I cannot beleeve, and take a naked promiſe:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſvv. </seg>
+               </label> Anſw. Doeſt thou deſire to beleeve, and to have Chriſt, and canſt thou ſay thus, If it were poſſible heaven and Chriſt could be ſe<g ref="char:EOLhyphen"/>parated, I would rather have Chriſt without heaven, then heaven without Chriſt, then comfort thy ſelfe, for God hath promiſed, <hi>I will give to him that thirſteth of the water of life freely.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiect. </seg>
+               </label> But this is a hard matter, &amp; I cannot ſay, I truly deſire Chriſt on ſuch terms as I should</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> But is it a griefe to thy heart that thou canſt not deny thy ſelfe, and happines, rather
+<pb n="14" facs="tcp:131893:8"/> then be ſeparated from Chriſt, and to cloſe with Chriſt, even upon any termes: it is thy burthen, becauſe thou canſt not deſire to beleeve as thou shouldeſt. Then com<g ref="char:EOLhyphen"/>fort thy ſelfe, <hi>God will accept the will for the</hi> 
+               <note place="margin">2 Cor. 8. 12.</note> 
+               <hi>the deed</hi> in this caſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiect. </seg>
+               </label> But the ſoule objecteth and ſaith, alas I am ſo farre from being grieved as I ought, that I rather find a hard heart that will not grieve and mourne for ſin, I cannot finde breakings of heart for it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> For thy comfort, I will come one ſtep lower to thee, haſt thou any will to it, Marke this place, if any place in the whole Scripture be for thee, here it is in the laſt words of this verſe. <hi>And who ſoever will, let him take of the water of life freely.</hi> 
+               <note place="margin">Rev 22. 17.</note>
+            </p>
+            <p>But it may be the wicked will ſay, I will have Chriſt: but ſtay, not every one that ſaith ſo shall have Chriſt, but art thou willing to part with thy ſinnes, and it may be to part with health, wealth, liberty, friends, yea and your owne life alſo, what ſay you? Are you willing upon theſe termes?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiect. </seg>
+               </label> But the poore ſoule ſaith againe, I feare I shall never doe this, but art thou willing that Chriſt should make thee willing, and pitch thee upon a promiſe, and should
+<pb n="15" facs="tcp:131893:8"/> hold thee there? If thou canſt finde theſe things. then comfort thy ſelfe, for thou haſt right unto Gods promiſes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>3</label> The third uſe is, Seeing God hath made many promiſes unto his people, this is terrour to the wicked. Here are many in this congregation, to whom I have not ſpoken one word in the laſt uſe of comfort: now God ſends other newes to you, there<g ref="char:EOLhyphen"/>fore put it not off from you, if I prove not what I ſay by Scripture, beleeve me not what I have ſaid for the comfort of Gods people, I muſt ſay the contrary unto you.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, as Gods children have their names written in Gods booke, and you have your names written alſo, but it is in the blacke booke of Gods wrath,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, as Gods children have a marke ſet on their foreheads, ſo there is a marke ſet on you, but it is a woefull one, for though I iudge you not, yet I am per<g ref="char:EOLhyphen"/>perſwaded the devill hath ſet his blacke marke, with a brand from hell one ſome of you: yea a man may gather from your very faces almoſt, what ſome of you are, but the day of judgement will fully diſco<g ref="char:EOLhyphen"/>ver you all. But in the meane time, know this whoſoever you are that are under your naturall condition, you are under Gods
+<pb n="16" facs="tcp:131893:9"/> curſe, as it is, <hi>If any shall heare the words of</hi> 
+               <note place="margin">Deu. 29. 19. 20</note> 
+               <hi>this curſe, and bleſſe himſelfe in his heart ſay<g ref="char:EOLhyphen"/>ing, I shall have peace though I walke in the immagination of my heart, &amp;c Then the Lord will not ſpare him, but the anger of the Lord and his jealouſie shall ſmoake againſt that man, and all the curſes of this booke shall be upon him, and the Lord shall blot out his name from under heaven, &amp;c.</hi> Alſo, <hi>I will heape up miſchiefe upon you, and I will ſend mine ar<g ref="char:EOLhyphen"/>rowes upon you.</hi> Oh what a heavy thing is <note place="margin">Deut. 32. 23.</note> this, I pray you conſider it ſadly; not to have right to Gods promiſes, is the condi<g ref="char:EOLhyphen"/>tion of a man that is curſed, and miſerable in his life, at his death, and after his death, You rich gentlemen and gentlewomen, give me leave to ſpeake to you, I pray you con<g ref="char:EOLhyphen"/>ſider thus much, if you have not right to Gods promiſes, the curſe of God is ſtamped upon every croſſe and peny, and upon every thing you have, See but this place, I <hi>have curſed your bleſſings, ſaith the Lord,</hi> as if he <note place="margin">Mal. 2. 2. 3.</note> should have ſaid, though I have given you plenty of corne, and money, and other things, yet they are to you but as curſes, and is not this a very ſad thing: give mee leave to deale plainely, it is as if a man had but two pence in all the world, and he should goe and buy a halter with it, to hang
+<pb n="17" facs="tcp:131893:9"/> himſelfe, yea further, all that thou haſt in this conditon, is but as if thou shouldeſt twiſt a cord together to hang thy ſoule in hell. And to you of the poorer ſort, that have not a right to the promiſe, you are in a miſerable condition, for you are both miſerable here and hereafter alſo. <hi>Iſrael hath not returned to him that ſmote them, neither doe they ſeeke unto the Lord, there<g ref="char:EOLhyphen"/>fore</hi> 
+               <note place="margin">Iſai. 9. 13. 14</note> 
+               <hi>the Lord will cut off from them both head and taile, branch and rush in one day.</hi> Againe whatſoever you doe in your calling is ac<g ref="char:EOLhyphen"/>curſed unto you, yea your praying, reading, hearing, faſting and mourning, all is ſin, for <hi>The ſacrifice of the wicked is an abomination</hi> 
+               <note place="margin">Prov. 15. 8.</note> 
+               <hi>unto the Lord.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object </seg>
+               </label> But if it be ſo, may theſe wicked men ſay, that our beſt duties are ſin, why should we performe any duties, either praying, hearing or the like?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> In anſwere to this, know for certaine whiles thou art in this condition, thou art in a bad condition, for every thing you doe is ſin. <hi>Vnto the pure all things are pure: but</hi> 
+               <note place="margin">Tit 1. 15.</note> 
+               <hi>unto them that are defiled, and unbeleeving, nothing is pure, but even their mindes and con<g ref="char:EOLhyphen"/>ſciences are defiled,</hi> So that to you, to per<g ref="char:EOLhyphen"/>forme duty it is ſin, or not to performe du<g ref="char:EOLhyphen"/>ty is ſin: but yet omit not duty, for though in performing duty thou ſinneſt: yet not to performe duty, is a double ſin.</p>
+            <pb n="18" facs="tcp:131893:10"/>
+            <p> To performe duty, whiles thou art in thy naturall condition is ſin for the manner, be<g ref="char:EOLhyphen"/>cauſe though thou mayeſt doe the duty for ſubſtance, as pray, heare, conferre, or the like, yet becauſe thou doeſt want a princi<g ref="char:EOLhyphen"/>ple of grace, nothing is done aright, and ſo wanteth acceptance: but to neglect duty is a ſinne, in regard of matter and manner; alſo, for as it is ſinfulneſſe it ſelfe not to doe the duty, ſo it is ſin to have the heart not rightly diſpoſed for the manner of perfor<g ref="char:EOLhyphen"/>mance: it is with you, as it was with the leapers, they ſaid among themſelves thus, <hi>Why ſit wee here till we die? If wee ſay we will enter into the city, then the famine is in the city</hi> 
+               <note place="margin">2 King. 7. 3. 4</note> 
+               <hi>and we shall die there, and if we ſit ſtill here, we die alſo: Now therefore let us come and fall unto the hoſt of the Syrians, if they ſave us a<g ref="char:EOLhyphen"/>live, we shall live, and if they kill us we shall but die.</hi> So ſay thou with thy ſelfe, If I doe duety I ſin, and if I doe not performe duty, I commit a double ſin, but I will goe to duty, if God will ſave me, I shall live, if not, I can but perish: and for thy com<g ref="char:EOLhyphen"/>fort conſider, it may be God will caſt an eye of pity upon thee, thou art in the way, that is the meanes God hath appointed to bring you home to Chriſt: but yet untill thy condition be changed, all thou doeſt is ſinne, for, <hi>The very thought of the wicked</hi> 
+               <note place="margin">Prov. 15. 26.</note> 
+               <hi>are an abomination to the Lord.</hi>
+            </p>
+            <pb n="19" facs="tcp:131893:10"/>
+            <p> But oh ſtrange, Though firebrands out of hell be ſpitted in your faces, yet you are not affected: But it may be ſome of you thinke to doe it, when you are ſicke, or up<g ref="char:EOLhyphen"/>on your death bed, but it may be too late then, when God openeth and awakeneth your conſcience, and if you be not awaken<g ref="char:EOLhyphen"/>ed here, you shall be ſure to be awakened in hell. I remember I heard of a yong pro<g ref="char:EOLhyphen"/>digall, when he was dying, looked on the fire and ſaid, as that fire burneth there, ſo shall my ſoule burne in hell. Another ſaid on his death bed, Oh that I might live, though it were but the life of a toad. God is very carefull to ſend his Angels for the godly: but for the wicked, the devils ſtand ready at his bed ſide to fetch him into hell as ſoone as his breath goeth out of his bo<g ref="char:EOLhyphen"/>dy, and then they will cry out. Oh the time of mercy that I have had, but now it is paſt, the gate of mercy is shut, never more to be opened.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiect. </seg>
+               </label> But it may be yet ſome will ſay, thanks be to God I am not in hell yet, and as long as there is life, there is hope.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Oh fearefull, what hope ſtill, read that place and tremble in reading of it, <hi>The Lord of that ſervant shall come in a day, when hee</hi> 
+               <note place="margin">Mat, 24. 50, 51</note> 
+               <hi>looketh not for him, and in an houre that he is not aware of, and shall cut him aſunder, and appoint him his portion with the hypocrites,</hi>
+               <pb n="20" facs="tcp:131893:11"/> 
+               <hi>there shalbe weeping and gnashing of teeth.</hi>
+            </p>
+            <p>Oh conſider this againſt the day of iudg<g ref="char:EOLhyphen"/>ment, it is a ſad day for all ſuch, when mer<g ref="char:EOLhyphen"/>cy and patience and Chriſt shall pleade a<g ref="char:EOLhyphen"/>gainſt them: yea, <hi>The duſt of ministers feet shall riſe up againſt them.</hi> Oh but if ſo, then <note place="margin">Luke. 10. 11.</note> what will their condition be, when drops of blood and ſweate shall riſe up againſt <note place="margin">Luke. 22. 44.</note> them: yea more, the husband shall rejoice to ſee the damnation of the wife. <hi>The righteous shall reioyce when he ſeeth vengeance on the wicked,</hi> becauſe God hath gotten the <note place="margin">Pſal. 58. 10.</note> glory of his enemies.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>4</label> The fourth uſe is, An exhortation to the godly firſt, and ſecondly to the wicked.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> In the firſt place, to the godly that com<g ref="char:EOLhyphen"/>plaine they cannot lay hold on the promiſe. Go to God to enable you, &amp; that you may ſo doe.</p>
+            <p>Conſider in the firſt place, that not to beleeve and lay hold on the promiſe is a ſin of unbeleefe, <hi>And he that beleeveth not is damned.</hi> See the evill of this ſin of unbe<g ref="char:EOLhyphen"/>leefe in theſe particulars <note place="margin">Iohn. 3. 18.</note>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, <hi>Hereby we grieve the holy ſpirit of God, whereby wee are ſealed to the day of re<g ref="char:EOLhyphen"/>demption,</hi> What a grievous thing is it for <note place="margin">Eph. 4. 30.</note> thee who deſireſt to be aſſured that the pro<g ref="char:EOLhyphen"/>miſe is thine, that thou by unbeleefe should eſt grieve that holy ſpirit, which ſealeth up the promiſe to thy ſoule, ſee that place.
+<pb n="21" facs="tcp:131893:11"/> 
+               <hi>Heare ye now, oh houſe of David, is it a ſmall thing for you to weary men, but you muſt weary</hi> 
+               <note place="margin">Iſai. 3. 17.</note> 
+               <hi>my God alſo.</hi> If a man promiſe to doe ano<g ref="char:EOLhyphen"/>ther man a courteſie, and after ſome delay, that man comes to him and ſaith, Will you do as you promiſed me? He ſaith, yes, but ſaith he will you indeed? and thus he plea<g ref="char:EOLhyphen"/>deth with him a whole day, and doth not beleeve him, will not that exceedingly grieve his friend, who promiſed him ſo to doe, and fully intended no leſſe: even ſo is it with all thoſe that are Gods people, and will not beleeve what God hath ſaid unto them, but ſtand and plead with God, two or three yeeres or more: as thoſe that be<g ref="char:EOLhyphen"/>beleeve glorify God, ſo thoſe that will not come in, rob God of his honour and glory, and grieve him.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> It argueth a great deale of pride of heart in them, that they will not beleeve, becauſe they have not what they would, but ſome<g ref="char:EOLhyphen"/>thing they muſt have of themſelves, like women that will not goe to a feaſt, becauſe they have nothing to carry.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Here is a great deale of unthankfulnes, for all that God hath done for them, yea e<g ref="char:EOLhyphen"/>ve<g ref="char:cmbAbbrStroke">̄</g> for Chriſt himſelf. where we love, we are very thankfull and where we deſire to be thankfull, wee will be willing to take a kindneſſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> It argueth a great deale of impatience,
+<pb n="22" facs="tcp:131893:12"/> when we will not wait in a way of belee<g ref="char:EOLhyphen"/>ving upon the promiſes of grace, and cheer<g ref="char:EOLhyphen"/>fully attend Gods leaſure.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> He that will not beleeve, gives God the lie, for, <hi>He that beleeveth,</hi> &amp;c. Hee that be<g ref="char:EOLhyphen"/>leeveth <note place="margin">1 Iohn. 5. 10.</note> not in every ordinance he comes to, he maketh God a lyar, becauſe every ordi<g ref="char:EOLhyphen"/>nance beareth record of Chriſt.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Not to beleeve, is a denying of Gods power, for they will not truſt God, eſpe<g ref="char:EOLhyphen"/>cially in a great ſtraight, and by this wee may ſee what a many ſins, even Gods peo<g ref="char:EOLhyphen"/>ple may commit in this caſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Conſider againe in the ſecond place what a ſafe thing it is to beleeve, I ſpeak to Gods people: As Surgeons when they let a man blood, bid him looke another way, ſo when the devill letteth you blood, that is, holds you pooring on your corruptions, looke another way, I meane on God, and then you shalbe ſafe from the devill, and the world, and your own corruptions. And that you may lay hold on the promiſes of God, take heed of thoſe lets and impedi<g ref="char:EOLhyphen"/>ments that might hinder you.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Sin is a let, for it will wreſt the promiſe out of our hands, <hi>But your iniquities, &amp;c.</hi> 
+               <note place="margin">Iſai. 59. 2.</note>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The ſecond impediment is, our doub<g ref="char:EOLhyphen"/>ting and wandering in our prayers, for, <hi>We muſt pray lifting up our holy hands,</hi> &amp;c. <note place="margin">Iam. 1. 6.</note>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> The third impediment to beleeving is,
+<pb n="23" facs="tcp:131893:12"/> ſlavish feare, when we feare man more then God, contrary to that counſell, <hi>Feare not</hi> 
+               <note place="margin">Iſai. 8. 12.</note> 
+               <hi>their feare nor be afraid, &amp;c.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> The fourth let is, When we lay downe one thing that might afford us help, and draw our ſelves to God, and in the meane time, take up another, which can no way help us: as when we lay downe the pro<g ref="char:EOLhyphen"/>miſe, and take up the threatning.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fiftly, when we ſet our mind too much on the creature, or honours, and ſeeke our owne baſenes, or worldly pleaſures.</p>
+            <p>In the next place, take theſe helps to lay hold on the promiſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Labour to live by faith, in all ſtraits, and conditions, and by faith fetch a ſupply for al your wants by the promiſe from Chriſt.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, marke the promiſe well, which is the ground of all comfort, and read them over often.</p>
+            <p>Do not flutter up &amp; down from one pro<g ref="char:EOLhyphen"/>miſe to another, but lie a great while on ſome one, and wring and ſqueeſe it by me<g ref="char:EOLhyphen"/>ditation upon it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, apply the promiſe aright, do not thinke it belongeth not to you, becauſe you have not that preſently which is promiſed in it, you muſt know, that God ſetteth not downe the time, when it shalbe fulfilled.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, We are to wait patiently, and humbly under our preſent condition, vntill
+<pb n="24" facs="tcp:131893:13"/> God grant our deſire, Gods time is the beſt time.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Bleſſe God for all his promiſes, but eſpe<g ref="char:EOLhyphen"/>cially when they are made good to us. <note place="margin">Pſal. 103.</note>
+            </p>
+            <p>In the next place to thoſe that yet ſtand out, and are not cloſed with the promiſe, I entreat you, come in to God, take his gra<g ref="char:EOLhyphen"/>cious offer, lay hold on the promiſe: which that you may doe, take heed of thoſe things that wil be lets, and hinder you,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Take heed of all ſin, for the Lord ſaith, <hi>your ſins have kept back good things from you.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Take heed of ſetting your mind to muc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon the creatures, for they will shut one God the creator. Old men, do you come home to God, yong men do you remember your creator in the dayes of your youth; God this day calleth you, it may be he will never call more, how many hath the Lord ſtruck with death &amp; ſicknes, and how ſoone it may be any of our turnes I know not: ſicknes is an unfit time to get Chriſt, and to make our peace with God, if you ſtand ſtill you die: If you go on in ſin you die, there<g ref="char:EOLhyphen"/>fore turne from all your ſin and come in &amp; lay hold by faith on the promiſe, that ſo ye may live, and this that I have ſpoken unto you may not be in vaine.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:131893:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
